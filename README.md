@@ -127,8 +127,7 @@ Tampa, FL
 ## 🙏 Acknowledgments
 
 These procedures are based on experience supporting diverse environments including:
-- Fortune 500 corporations (General Dynamics, Johnson & Johnson, Merck-Medco)
-- Government agencies (EEOC, Congressional Budget Office)
+- Corporations I have personally worked for
 - Small business and individual clients
 - Contract positions across enterprise organizations
 
